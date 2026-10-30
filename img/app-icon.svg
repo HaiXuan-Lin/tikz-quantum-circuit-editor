@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<title>TikZ Quantum Circuit Editor</title>
+<desc>Two qubit wires with a Hadamard gate and a gold CNOT on a drafting grid.</desc>
+<rect x="24" y="24" width="976" height="976" rx="220" fill="#e5e7eb"/>
+<rect x="35" y="35" width="954" height="954" rx="210" fill="#263447"/>
+<rect x="55" y="55" width="914" height="914" rx="191" fill="#29394f"/>
+<circle cx="192" cy="192" r="2.5" fill="#425167"/>
+<circle cx="192" cy="320" r="2.5" fill="#425167"/>
+<circle cx="192" cy="448" r="2.5" fill="#425167"/>
+<circle cx="192" cy="576" r="2.5" fill="#425167"/>
+<circle cx="192" cy="704" r="2.5" fill="#425167"/>
+<circle cx="192" cy="832" r="2.5" fill="#425167"/>
+<circle cx="320" cy="192" r="2.5" fill="#425167"/>
+<circle cx="320" cy="320" r="2.5" fill="#425167"/>
+<circle cx="320" cy="448" r="2.5" fill="#425167"/>
+<circle cx="320" cy="576" r="2.5" fill="#425167"/>
+<circle cx="320" cy="704" r="2.5" fill="#425167"/>
+<circle cx="320" cy="832" r="2.5" fill="#425167"/>
+<circle cx="448" cy="192" r="2.5" fill="#425167"/>
+<circle cx="448" cy="320" r="2.5" fill="#425167"/>
+<circle cx="448" cy="448" r="2.5" fill="#425167"/>
+<circle cx="448" cy="576" r="2.5" fill="#425167"/>
+<circle cx="448" cy="704" r="2.5" fill="#425167"/>
+<circle cx="448" cy="832" r="2.5" fill="#425167"/>
+<circle cx="576" cy="192" r="2.5" fill="#425167"/>
+<circle cx="576" cy="320" r="2.5" fill="#425167"/>
+<circle cx="576" cy="448" r="2.5" fill="#425167"/>
+<circle cx="576" cy="576" r="2.5" fill="#425167"/>
+<circle cx="576" cy="704" r="2.5" fill="#425167"/>
+<circle cx="576" cy="832" r="2.5" fill="#425167"/>
+<circle cx="704" cy="192" r="2.5" fill="#425167"/>
+<circle cx="704" cy="320" r="2.5" fill="#425167"/>
+<circle cx="704" cy="448" r="2.5" fill="#425167"/>
+<circle cx="704" cy="576" r="2.5" fill="#425167"/>
+<circle cx="704" cy="704" r="2.5" fill="#425167"/>
+<circle cx="704" cy="832" r="2.5" fill="#425167"/>
+<circle cx="832" cy="192" r="2.5" fill="#425167"/>
+<circle cx="832" cy="320" r="2.5" fill="#425167"/>
+<circle cx="832" cy="448" r="2.5" fill="#425167"/>
+<circle cx="832" cy="576" r="2.5" fill="#425167"/>
+<circle cx="832" cy="704" r="2.5" fill="#425167"/>
+<circle cx="832" cy="832" r="2.5" fill="#425167"/>
+<path d="M176 384H848M176 640H848" fill="none" stroke="#f4f0e7" stroke-width="24" stroke-linecap="round"/>
+<rect x="282" y="314" width="140" height="140" rx="6" fill="#29394f" stroke="#f4f0e7" stroke-width="24"/>
+<path d="M322 352V416M382 352V416M322 384H382" fill="none" stroke="#f4f0e7" stroke-width="22" stroke-linecap="round"/>
+<path d="M650 384V640" fill="none" stroke="#efbd72" stroke-width="22"/>
+<circle cx="650" cy="384" r="34" fill="#efbd72"/>
+<circle cx="650" cy="640" r="70" fill="#29394f" stroke="#efbd72" stroke-width="22"/>
+<path d="M580 640H720M650 570V710" fill="none" stroke="#efbd72" stroke-width="22"/>
+</svg>

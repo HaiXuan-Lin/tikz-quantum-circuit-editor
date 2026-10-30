@@ -1,0 +1,53 @@
+{
+  "name": "tikz-quantum-circuit-editor",
+  "version": "1.0.0",
+  "description": "A visual quantum circuit editor with quantikz2 LaTeX export, in the style of quiver.",
+  "main": "src/index.jsx",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaiXuan-Lin/tikz-quantum-circuit-editor.git"
+  },
+  "keywords": [
+    "quantum",
+    "quantum-circuit",
+    "quantikz",
+    "tikz",
+    "latex",
+    "diagram",
+    "editor"
+  ],
+  "license": "MIT",
+  "homepage": "https://haixuan-lin.github.io/tikz-quantum-circuit-editor/",
+  "bugs": {
+    "url": "https://github.com/HaiXuan-Lin/tikz-quantum-circuit-editor/issues"
+  },
+  "dependencies": {
+    "lz-string": "1.5.0",
+    "preact": "10.29.8"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2",
+    "mathjax": "2.7.6",
+    "prettier": "3.9.10"
+  },
+  "scripts": {
+    "start": "node scripts/dev.mjs",
+    "dev": "node scripts/dev.mjs",
+    "build": "node scripts/build.mjs",
+    "dist": "node scripts/dist.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "build:macos": "bash ./build.sh",
+    "install:macos": "bash ./install.sh",
+    "format": "prettier --write src scripts tests css index.html README.md package.json",
+    "format:check": "prettier --check src scripts tests css index.html README.md package.json"
+  },
+  "engines": {
+    "node": ">=22.12"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "semi": false,
+    "bracketSpacing": false,
+    "printWidth": 90
+  }
+}
